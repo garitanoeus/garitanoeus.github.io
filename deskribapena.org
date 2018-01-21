@@ -1,0 +1,14 @@
+* Deskribapena
+:PROPERTIES:
+:CUSTOM_ID: deskribapena
+:END:
+
+#+BEGIN_HTML
+Iñaki Garitano <a href="http://www.mondragon.edu/eu/" target="_blank" title="Mondragon Unibertsitatea">Mondragon Unibertsitateko</a> Elektronika eta Informatika departamentuko eta <a href="http://www.mondragon.edu/eu/gep/ikerkuntza/ikerketa-taldeak/telematika" target="_blank" title="Telematika taldea">Telematika</a> taldeko ikertzaile/irakaslea da.
+Era berean <a href="http://www.mondragon.edu/eu/gep/aktualitatea/albisteak/inaki-garitano-k-bere-tesia-irakurri-du" target="_blank" title="Doktoretza tesia">doktorea</a> ere bada, /Behavioral Modeling for Anomaly Detection in Industrial Control Systems/ izenburua duen lanarekin.
+Horrez gain, Telekomunikazio ingeniaria da, biak ere <a href="http://www.mondragon.edu/eu/" target="_blank" title="Mondragon Unibertsitatea">Mondragon Unibertsitatean</a> eginak.
+<a href="http://www.mondragon.edu/eu/" target="_blank" title="Mondragon Unibertsitatea">Mondragon Unibertsitatean</a> lanean hasi aurretik, 2015ean, <a href="http://www.unik.no/" target="_blank" title="Universitetssenteret på Kjeller (UNIK)">Universitetssenteret på Kjeller (UNIK)</a>-en postdok ikertzaile bezala lan egin zuen. Gainera, <a href="http://www.basicinternet.org" target="_blank" title="Basic Internet Fundazioa">Basic Internet Fundazioko</a> CTO kargua du. 
+Bere interesak Datuen Zientzia, Zibersegurtasuna, Pribazitatea, Automatizazio eta Kontrol Sistema Industrialak eta Komunikazio Sareak eta Gailuen Interneta dira. Gaur egun finantziazio publikoa duten hainbat proiektu Europar, nazional eta herrialdekotan parte hartzen du, MANTIS [ECSEL-2014-1 662189], MC-SUITE [H2020-FoF-2015 680478], SERVROLL [EXP-00088623/CIIP-20161009], BID3ABI [KK-2016/00096], EDAR 4.0 [ZE-2016/00020], HEALSYSII [ 2016222007 ], etb. datuen analisia, segurtasuna, eskalabilitatea, HPC, bezalako lanetan.
+#+END_HTML
+
+Espezialitateak: Datuen Analisia, Anomalia Detekzio Sistemak, Intrusio Detekzio Sistemak, ICS Segurtasuna, Oinarrizko Azpiegituren Babesa, SCADA Segurtasuna, Ordenagailuen eta Sareen Segurtasuna.

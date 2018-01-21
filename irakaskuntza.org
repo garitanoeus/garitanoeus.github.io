@@ -1,0 +1,45 @@
+* Irakaskuntza
+:PROPERTIES:
+:CUSTOM_ID: irakaskuntza
+:END:
+
+*** Kurtsoak
+
+***** [[http://www.mondragon.edu/eu/ikasketak/masterra/teknologia-biomedikako-unibertsitate-masterra/][Teknologia Biomedikoetan Unibertsitate Masterra.]] Mondragon Unibertsitatea.
+
+ - Bioinformatika eta datuen analisia. 2017-2018.
+
+
+***** [[http://www.mondragon.edu/cursos/es/tematicas/informatica-telecomunicaciones-sistemas-empotrados/master-en-ciberseguridad][Zibersegurtasun Masterra.]] Mondragon Unibertsitatea.
+
+ - Sistema eragileen segurtasuna. 2017-2018.
+ - Softwarearen segurtasuna. 2017-2018.
+
+
+***** [[http://www.mondragon.edu/cursos/eu/gaiak/informatika-telekomunikazio-sistemak-sistema-txertatuak/informatika-segurtasuneko-masterra-online/view][Informatika Segurtasuneko Masterra.]] Mondragon Unibertsitatea.
+
+ - Softwarearen segurtasuna. 2017-2018.
+
+
+***** [[http://www.mondragon.edu/eu/ikasketak/graduak/gradua-informatika-ingeniaritzan/][Gradua Informatika Ingeniaritzan.]] Mondragon Unibertsitatea.
+
+ - Azpiegitura eta sistemak. 2017-2018.
+
+
+***** [[http://www.spri.eus/euskadinnova/es/enpresa-digitala/agenda/curso-data-para-industria/12416.aspx][Big Data kurtsoa Industriarentzat.]] SPRI.
+
+ - Data ingestion. 2017-2018.
+
+
+*** Doktoretza ikasleak
+
+#+INCLUDE: "general/phd_students.org" :minlevel 2
+
+
+*** Gradu eta Master bukaerako proiektuak
+
+#+INCLUDE: "general/bsc_msc_students.org" :minlevel 2
+
+
+** Aurrekoak
+ - [[file:burututako_irakaskuntza.org][Burututako irakaskuntza jarduerak]]

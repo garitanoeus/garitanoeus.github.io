@@ -1,0 +1,53 @@
+#+INCLUDE: "basque_header.org" :minlevel 1
+
+** Burututako irakaskuntza jarduerak
+
+**** Kurtsoak
+
+***** [[http://www.mondragon.edu/cursos/eu/gaiak/informatika-telekomunikazio-sistemak-sistema-txertatuak/informatika-segurtasuneko-masterra-online/view][Informatika Segurtasuneko Masterra.]] Mondragon Unibertsitatea.
+
+ - Softwarearen segurtasuna. 2016-2017.
+ - Softwarearen segurtasuna. 2015-2016.
+
+
+***** [[http://www.mondragon.edu/eu/ikasketak/graduak/gradua-informatika-ingeniaritzan/][Gradua Informatika Ingeniaritzan.]] Mondragon Unibertsitatea.
+
+ - Azpiegitura eta sistemak. 2016-2017.
+ - Azpiegitura eta sistemak. 2015-2016.
+
+
+***** [[http://www.spri.eus/euskadinnova/es/enpresa-digitala/agenda/curso-data-para-industria/12416.aspx][Big Data kurtsoa Industriarentzat.]] SPRI.
+
+ - Kurtsoaren koordinazioa.
+ - Data ingestion. 2016-2017.
+
+
+***** [[http://www.spri.eus/euskadinnova/es/enpresa-digitala/agenda/monta-infraestructura-data-para-empresa/9037.aspx][Monta una Infraestructura Big Data para tu Empresa.]] SPRI.
+
+ - Modulu denak. 2016-2017.
+ - Modulu denak. 2015-2016.
+
+
+***** [[http://www.mondragon.edu/cursos/en/topics/informatics/course/mooc-hacking-etico][MOOC: Hacking Etikoa]]
+
+
+**** Doktoretza epaimahaikidea
+
+#+INCLUDE: "general/phd_tribunal.org" :minlevel 2
+
+
+**** Aholkatutako ikasleak
+
+#+INCLUDE: "general/advised_students.org" :minlevel 2
+
+
+**** Gradu eta Master ikasketa bukaerako proiektuen epaimahaikidea
+
+#+INCLUDE: "general/thesis_court.org" :minlevel 2
+
+
+#+HTML: <br> <div id="top">
+#+INCLUDE: "general/social_media.org" :minlevel 1
+#+HTML: <br>
+[[file:index.org][atzera]]
+#+HTML: </div> <br>

@@ -1,0 +1,15 @@
+* Argitalpenak
+:PROPERTIES:
+:CUSTOM_ID: argitalpenak
+:END:
+
+** Profilak
+
+#+INCLUDE: "general/profiles.org" :minlevel 1
+
+#+INCLUDE: "general/publication_list.org" :minlevel 2
+
+
+** Aurrekoak
+
+ - [[file:argitalpen_zaharrak.org][Aurreko argitalpenak]]

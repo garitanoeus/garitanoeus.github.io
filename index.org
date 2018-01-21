@@ -1,0 +1,15 @@
+#+INCLUDE: "basque_header.org" :minlevel 1
+
+#+INCLUDE: "sarrera.org" :minlevel 1
+
+#+INCLUDE: "deskribapena.org" :minlevel 1
+
+#+INCLUDE: "argitalpenak.org" :minlevel 1
+
+#+INCLUDE: "proiektuak.org" :minlevel 1
+
+#+INCLUDE: "irakaskuntza.org" :minlevel 1
+
+#+INCLUDE: "aurrekariak.org" :minlevel 1
+
+#+INCLUDE: "kontaktua.org" :minlevel 1

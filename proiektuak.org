@@ -1,0 +1,28 @@
+* Proiektuak
+:PROPERTIES:
+:CUSTOM_ID: proiektuak
+:END:
+
+*** Proiektu Europarrak
+
+#+INCLUDE: "general/ongoing_european_projects.org" :minlevel 2
+
+
+*** Norvegiar ikerketa kontseiluak (NFR) finantzatutako proiektuak
+
+#+INCLUDE: "general/ongoing_norwegian_projects.org" :minlevel 2
+
+
+*** Euskal gobernuak finantzatutako proiektuak
+
+#+INCLUDE: "general/ongoing_basque_projects.org" :minlevel 2
+
+
+*** Finantziazio pribatua
+
+#+INCLUDE: "general/ongoing_private_projects.org" :minlevel 2
+
+
+** Bukatutakoak
+
+ - [[file:bukatutako_proiektuak.org][Bukatutako proiektuak]]

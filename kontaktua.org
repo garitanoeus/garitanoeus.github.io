@@ -1,0 +1,26 @@
+* Kontaktua
+:PROPERTIES:
+:CUSTOM_ID: kontaktua
+:END:
+
+#+BEGIN_HTML
+<a href="http://www.mondragon.edu/eu/guri-buruz/direktorioa/gep/telematika/inaki-garitano-garitano" target="_blank" title="Iñaki Garitano">Iñaki Garitano</a> <br>
+<a href="http://www.mondragon.edu/eu/gep/ikerkuntza/ikerketa-taldeak/telematika" target="_blank" title="Datuen analisia eta zibersegurtasun taldea">Datuen analisia eta zibersegurtasuna</a> <br>
+Elektronika eta Informatika Departamentua <br>
+Mondragon Unibertsitatea - Goi Eskola Politeknikoa <br>
+Goiru, 2; E-20500 Arrasate - Mondragon (Gipuzkoa), Spain <br>
+Telefonoa: +(34) 647503682 / +(34) 943794700 + Ext. 8119 <br>
+<a href="http://www.mondragon.edu/eu/" target="_blank" title="Mondragon Unibertsitatea">www.mondragon.edu</a> / <a href="http://www.garitano.eus" target="_blank" title="Iñaki Garitano-ren web orri pertsonala">www.garitano.eus</a> <br>
+<br>
+<div id="top">
+#+END_HTML
+
+#+INCLUDE: "general/social_media.org" :minlevel 1
+
+#+BEGIN_HTML
+<br>
+<br>
+<a href="#">hasiera</a>
+</div>
+<br>
+#+END_HTML

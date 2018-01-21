@@ -1,0 +1,11 @@
+#+INCLUDE: "basque_header.org" :minlevel 1
+
+** Aurreko argitalpenak
+
+#+INCLUDE: "general/publication_list_old.org" :minlevel 3
+
+#+HTML: <br> <div id="top">
+#+INCLUDE: "general/social_media.org" :minlevel 1
+#+HTML: <br>
+[[file:index.org][atzera]]
+#+HTML: </div> <br>

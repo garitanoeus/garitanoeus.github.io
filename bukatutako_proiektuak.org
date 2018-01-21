@@ -1,0 +1,34 @@
+#+INCLUDE: "basque_header.org" :minlevel 1
+
+** Bukatutako proiektuak
+
+**** Proiektu Europarrak
+
+#+INCLUDE: "general/finished_european_projects.org" :minlevel 2
+
+
+**** Norvegiar ikerketa kontseiluak (NFR) finantzatutako proiektuak
+
+#+INCLUDE: "general/finished_norwegian_projects.org" :minlevel 2
+
+
+**** Euskal gobernuak finantzatutako proiektuak
+
+#+INCLUDE: "general/finished_basque_projects.org" :minlevel 2
+
+
+**** Espainiar gobernuak finantzatutako proiektuak
+
+#+INCLUDE: "general/finished_spanish_projects.org" :minlevel 2
+
+
+**** Finantziazio pribatua
+
+#+INCLUDE: "general/finished_private_projects.org" :minlevel 2
+
+
+#+HTML: <br> <div id="top">
+#+INCLUDE: "general/social_media.org" :minlevel 1
+#+HTML: <br>
+[[file:index.org][atzera]]
+#+HTML: </div> <br>
