@@ -3,6 +3,10 @@
 :CUSTOM_ID: argitalpenak
 :END:
 
+** Teknopolis
+
+#+INCLUDE: "general/teknopolis.org" :minlevel 1
+
 ** Profilak
 
 #+INCLUDE: "general/profiles.org" :minlevel 1
