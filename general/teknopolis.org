@@ -1,9 +1,9 @@
 - 2018
   - Big Data bihotzaren zerbitzura (Optimus proiektua)
-    - [[https://teknopolis.elhuyar.eus/erreportaiak/big-data-bihotzaren-zerbitzura/][Teknopolis]]
-    - [[https://www.eitb.tv/es/video/teknopolis-eu--2017-2018/5938/137342/bihotza-teknologiaren-jomuga/][EITB]]
+    - [[http://teknopolis.elhuyar.eus/erreportaiak/big-data-bihotzaren-zerbitzura/][Teknopolis]]
+    - [[http://www.eitb.tv/es/video/teknopolis-eu--2017-2018/5938/137342/bihotza-teknologiaren-jomuga/][EITB]]
 
 - 2016
   - Oinarrizko Interneta, denon eskura (Basic Internet proiektua)
-    - [[https://teknopolis.elhuyar.eus/erreportaiak/oinarrizko-interneta-denon-eskura/][Teknopolis]]
-    - [[https://www.eitb.tv/es/video/teknopolis-eu--2015-2016/5310/105626/teknologia/][EITB]]
+    - [[http://teknopolis.elhuyar.eus/erreportaiak/oinarrizko-interneta-denon-eskura/][Teknopolis]]
+    - [[http://www.eitb.tv/es/video/teknopolis-eu--2015-2016/5310/105626/teknologia/][EITB]]
