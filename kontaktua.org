@@ -4,8 +4,8 @@
 :END:
 
 #+BEGIN_HTML
-<a href="http://www.mondragon.edu/eu/guri-buruz/direktorioa/gep/telematika/inaki-garitano-garitano" target="_blank" title="Iñaki Garitano">Iñaki Garitano</a> <br>
-<a href="http://www.mondragon.edu/eu/gep/ikerkuntza/ikerketa-taldeak/telematika" target="_blank" title="Datuen analisia eta zibersegurtasun taldea">Datuen analisia eta zibersegurtasuna</a> <br>
+<a href="https://www.mondragon.edu/eu/ikerketa-transferentzia/ingeniaritza-teknologia/ikerketa-transferentzia-taldeak/-/mu-inv-mapping/ikertzaile/inaki-garitano-garitano" target="_blank" title="Iñaki Garitano">Iñaki Garitano</a> <br>
+<a href="https://www.mondragon.edu/eu/ikerketa-transferentzia/ingeniaritza-teknologia/ikerketa-transferentzia-taldeak/-/mu-inv-mapping/talde/datuen-analisia-eta-zibersegurtasuna" target="_blank" title="Datuen analisia eta zibersegurtasun taldea">Datuen analisia eta zibersegurtasuna</a> <br>
 Elektronika eta Informatika Departamentua <br>
 Mondragon Unibertsitatea - Goi Eskola Politeknikoa <br>
 Goiru, 2; E-20500 Arrasate - Mondragon (Gipuzkoa), Spain <br>

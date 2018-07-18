@@ -5,7 +5,7 @@
 
 *** Kurtsoak
 
-***** [[http://www.mondragon.edu/eu/ikasketak/masterra/teknologia-biomedikako-unibertsitate-masterra/][Teknologia Biomedikoetan Unibertsitate Masterra.]] Mondragon Unibertsitatea.
+***** [[https://www.mondragon.edu/eu/unibertsitate-masterra-teknologia-biomedikoak][Teknologia Biomedikoetan Unibertsitate Masterra.]] Mondragon Unibertsitatea.
 
  - Bioinformatika eta datuen analisia. 2017-2018.
 
@@ -21,7 +21,7 @@
  - Softwarearen segurtasuna. 2017-2018.
 
 
-***** [[http://www.mondragon.edu/eu/ikasketak/graduak/gradua-informatika-ingeniaritzan/][Gradua Informatika Ingeniaritzan.]] Mondragon Unibertsitatea.
+***** [[https://www.mondragon.edu/eu/gradua-informatika-ingeniaritza][Gradua Informatika Ingeniaritzan.]] Mondragon Unibertsitatea.
 
  - Azpiegitura eta sistemak. 2017-2018.
 
