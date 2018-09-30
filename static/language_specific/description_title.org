@@ -1,0 +1,4 @@
+* Deskribapena
+:PROPERTIES:
+:CUSTOM_ID: description
+:END:

@@ -1,0 +1,10 @@
+- [[https://www.mondragon.edu/eu/unibertsitate-masterra-teknologia-biomedikoak][Teknologia Biomedikoetan Unibertsitate Masterra.]] Mondragon Unibertsitatea.
+  - Bioinformatika eta datuen analisia. 2018-2019.
+
+
+- [[http://www.mondragon.edu/cursos/es/tematicas/informatica-telecomunicaciones-sistemas-empotrados/master-en-ciberseguridad][Zibersegurtasun Masterra.]] Mondragon Unibertsitatea.
+  - Softwarearen segurtasuna. 2018-2019.
+
+
+- [[https://www.mondragon.edu/eu/gradua-informatika-ingeniaritza][Gradua Informatika Ingeniaritzan.]] Mondragon Unibertsitatea.
+  - Azpiegitura eta sistemak. 2018-2019.

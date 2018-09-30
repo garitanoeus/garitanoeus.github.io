@@ -1,15 +1,21 @@
-#+INCLUDE: "basque_header.org" :minlevel 1
+#+INCLUDE: "header.org" :minlevel 1
 
-#+INCLUDE: "sarrera.org" :minlevel 1
+#+INCLUDE: "title.org" :minlevel 1
 
-#+INCLUDE: "deskribapena.org" :minlevel 1
+#+INCLUDE: "description.org" :minlevel 1
 
-#+INCLUDE: "argitalpenak.org" :minlevel 1
+#+INCLUDE: "publications.org" :minlevel 1
 
-#+INCLUDE: "proiektuak.org" :minlevel 1
+#+INCLUDE: "media.org" :minlevel 1
 
-#+INCLUDE: "irakaskuntza.org" :minlevel 1
+#+INCLUDE: "projects.org" :minlevel 1
 
-#+INCLUDE: "aurrekariak.org" :minlevel 1
+#+INCLUDE: "teaching.org" :minlevel 1
 
-#+INCLUDE: "kontaktua.org" :minlevel 1
+#+INCLUDE: "background.org" :minlevel 1
+
+#+INCLUDE: "contact.org" :minlevel 1
+
+#+INCLUDE: "social_media.org" :minlevel 1
+
+#+INCLUDE: "static/language_specific/begin.org" :minlevel 1
