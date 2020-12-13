@@ -1,18 +1,20 @@
+- [[https://www.mondragon.edu/eu/unibertsitate-masterra-datuen-analisia-zibersegurtasuna-hodei-koputazioa][Datuen Analisia, Zibersegurtasuna eta Hodei-Konputazioa.]] Mondragon Unibertsitatea.
+  - Azpiegitura eta Sareetako Segurtasuna. 2019-2020.
+  - Datuen adimena. 2019-2020.
+
 - [[https://www.mondragon.edu/eu/unibertsitate-masterra-teknologia-biomedikoak][Teknologia Biomedikoetan Unibertsitate Masterra.]] Mondragon Unibertsitatea.
-  - Bioinformatika eta datuen analisia. 2017-2018.
+  - Bioinformatika eta datuen analisia. 2017-2018, 2018-2019, 2019-2020.
 
 - [[http://www.mondragon.edu/cursos/es/tematicas/informatica-telecomunicaciones-sistemas-empotrados/master-en-ciberseguridad][Zibersegurtasun Masterra.]] Mondragon Unibertsitatea.
-  - Sistema eragileen segurtasuna. 2017-2018.
+  - WiFi segurtasuna. 2019-2020.
+  - Sistema eragileen segurtasuna. 2017-2018, 2018-2019.
   - Softwarearen segurtasuna. 2017-2018.  
   
 - [[http://www.mondragon.edu/cursos/eu/gaiak/informatika-telekomunikazio-sistemak-sistema-txertatuak/informatika-segurtasuneko-masterra-online/view][Informatika Segurtasuneko Masterra.]] Mondragon Unibertsitatea.
-  - Softwarearen segurtasuna. 2016-2017.
-  - Softwarearen segurtasuna. 2015-2016.
+  - Softwarearen segurtasuna. 2015-2016, 2016-2017.
 
 - [[https://www.mondragon.edu/eu/gradua-informatika-ingeniaritza][Gradua Informatika Ingeniaritzan.]] Mondragon Unibertsitatea.
-  - Azpiegitura eta sistemak. 2017-2018.
-  - Azpiegitura eta sistemak. 2016-2017.
-  - Azpiegitura eta sistemak. 2015-2016.
+  - Azpiegitura eta sistemak. 2015-2016, 2016-2017, 2017-2018, 2018-2019, 2019-2020.
 
 - [[http://www.spri.eus/euskadinnova/es/enpresa-digitala/agenda/curso-data-para-industria/12416.aspx][Big Data kurtsoa Industriarentzat.]] SPRI.
   - Data ingestion. 2017-2018.
@@ -20,7 +22,6 @@
   - Data ingestion. 2016-2017.
 
 - [[http://www.spri.eus/euskadinnova/es/enpresa-digitala/agenda/monta-infraestructura-data-para-empresa/9037.aspx][Monta una Infraestructura Big Data para tu Empresa.]] SPRI.
-  - Modulu denak. 2016-2017.
-  - Modulu denak. 2015-2016.
+  - Modulu denak. 2015-2016, 2016-2017.
 
 - [[http://www.mondragon.edu/cursos/en/topics/informatics/course/mooc-hacking-etico][MOOC: Hacking Etikoa]]

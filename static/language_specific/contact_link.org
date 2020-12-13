@@ -1,4 +1,4 @@
-#+BEGIN_HTML
+#+BEGIN_EXPORT html
 <a href="https://www.mondragon.edu/eu/ikerketa-transferentzia/ingeniaritza-teknologia/ikerketa-transferentzia-taldeak/-/mu-inv-mapping/ikertzaile/inaki-garitano-garitano" target="_blank" title="Iñaki Garitano">Iñaki Garitano</a> <br>
 <a href="https://www.mondragon.edu/eu/ikerketa-transferentzia/ingeniaritza-teknologia/ikerketa-transferentzia-taldeak/-/mu-inv-mapping/talde/datuen-analisia-eta-zibersegurtasuna" target="_blank" title="Datuen analisia eta zibersegurtasun taldea">Datuen analisia eta zibersegurtasuna</a> <br>
 Elektronika eta Informatika Departamentua <br>
@@ -8,4 +8,4 @@ Telefonoa: +(34) 647503682 / +(34) 943794700 + Ext. 8119 <br>
 <a href="http://www.mondragon.edu/eu/" target="_blank" title="Mondragon Unibertsitatea">www.mondragon.edu</a> / <a href="http://www.garitano.eus" target="_blank" title="Iñaki Garitano-ren web orri pertsonala">www.garitano.eus</a> <br>
 <br>
 <div id="top">
-#+END_HTML
+#+END_EXPORT

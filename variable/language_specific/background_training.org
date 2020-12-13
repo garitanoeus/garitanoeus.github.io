@@ -1,0 +1,33 @@
+* Ikasketak
+:PROPERTIES:
+:CUSTOM_ID: training
+:END:
+
+** Doktoretza-ondoko lanaldi/laguntzak
+
+*** _Security, Privacy and Dependability IoT metrics_, [[http://www.mn.uio.no/its/english/][Universitetssenteret på Kjeller (UNIK)]] (Norvegia), 2014-2015
+
+*** _IIoT segurtasuna_, Mondragon Unibertsitatea, 2018-2019
+ - Laguntza programa
+   - [[https://www.incibe.es/ayudas-investigacion-en-ciberseguridad][Ayudas para la excelencia de los equipos de investigación avanzada en ciberseguridad]]
+   - Erakundea: [[https://www.incibe.es/][Instituto Nacional de Ciberseguridad (INCIBE)]]
+   - Erreferentzia: INCIBEI-201527367
+
+
+** Doktoretza
+
+*** _Portaera Modeloak Anomalia Detekziorako Kontrol Sistema Industrialetan_ ([[../publications/igaritano2014phd.pdf][PDF]]), Mondragon Unibertsitatea, 2014/02/14
+ - Zuzendariak: [[https://www.mondragon.edu/eu/unibertsitate-masterra-energia-potentzia-elektronika/irakaslegoa/-/profesor/roberto-uribeetxeberria-ezpeleta][Roberto Uribeetxeberria]] eta [[https://www.mondragon.edu/eu/ikerketa-transferentzia/kooperatibismoa/ikerketa-transferentzia-taldeak/-/mu-inv-mapping/investigador/urko-zurutuza-ortega][Urko Zurutuza]]
+ - Laguntza programa
+   - [[https://www.euskadi.eus/informazioa/laguntza-ikertzaileei-doktoratu-aurreko-programa/web01-a3predoc/eu/][Ikerketa-ibilbidea. Doktoretza-aurreko Programa]]
+   - Erakundea: [[https://www.euskadi.eus/eusko-jaurlaritza/hezkuntza-saila/][Eusko Jaurlaritza. Hezkuntza Saila.]]
+   - Erreferentzia: BFI05.454
+
+
+** Goi mailako titulazioak
+
+*** _Informazio eta Komunikazio Teknologien Masterra_, Mondragon Unibertsitatea, 2011/09/05
+
+*** [[https://web.archive.org/web/20070827040902/http://www.mondragon.edu/ikasketak/ingenieritza/telekomunikazioetan-ingeniaritza][_Telekomunikazioetan ingeniaria_]], Mondragon Unibertsitatea, 2009/09/22
+
+*** [[https://web.archive.org/web/20030218223342/http://www.mondragon.edu/bin/tusestudios/cursos_eusk.asp?campus=1&codtit=M2IT&insti=M][_Telekomunikazioetan ingeniaritza teknikoa_]], telematika espezialitatea, 2006/07/06

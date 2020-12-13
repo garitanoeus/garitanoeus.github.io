@@ -1,0 +1,19 @@
+* Ikerketa jarduerak
+:PROPERTIES:
+:CUSTOM_ID: research_activities
+:END:
+
+#+BEGIN_EXPORT html
+<div id="table-of-contents-research-activities">
+  <div id="text-table-of-contents">
+    <ul>
+      <li>
+        <a href="#publications">Argitalpenak</a>
+      </li>
+      <li>
+        <a href="#projects">Proiektuak</a>
+      </li>
+    </ul>
+  </div>
+</div>
+#+END_EXPORT
