@@ -90,6 +90,9 @@ h4 {
 .org-ul {
     margin-top: 0em; }
 
+.underline {
+		text-decoration: underline; }
+
 #table-of-contents {
     margin-left: 10em; }
     #table-of-contents h2 {
@@ -118,7 +121,9 @@ h4 {
     
 #postamble {
     margin-top: 0;
-    background-color:#eeeeee; }
+    background-color:#eeeeee;
+		font-size: 0.9em;
+		line-height: 80%; }
 
 #top {
     margin-left: auto;
