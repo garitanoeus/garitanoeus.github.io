@@ -1,15 +1,15 @@
-#+INCLUDE: "header.org" :minlevel 1
+#+INCLUDE: "static/1_header.org" :minlevel 1
 
-#+INCLUDE: "static/language_specific/publications_old_title.org" :minlevel 3
+#+INCLUDE: "static/32_publications_old_title.org" :minlevel 3
 
-#+INCLUDE: "variable/common/publications_old_list.org" :minlevel 4
+#+INCLUDE: "contents/16_publications_old_list.org" :minlevel 4
 
 #+HTML: <br> <div id="top">
 
-#+INCLUDE: "social_media.org" :minlevel 1
+#+INCLUDE: "static/30_social_media.org" :minlevel 1
 
 #+HTML: <br>
 
-#+INCLUDE: "static/language_specific/back.org" :minlevel 1
+#+INCLUDE: "static/33_back.org" :minlevel 1
 
 #+HTML: </div> <br>

@@ -1,4 +1,4 @@
-#+INCLUDE: "static/language_specific/email_pgp.org" :minlevel 1
+#+INCLUDE: "../contents/1_email_pgp.org" :minlevel 1
 
 #+BEGIN_EXPORT html
 <div id="foundations">

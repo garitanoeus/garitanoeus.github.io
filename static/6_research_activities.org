@@ -1,0 +1,5 @@
+#+INCLUDE: "7_research_activities_title.org" :minlevel 1
+
+#+INCLUDE: "8_publications.org" :minlevel 2
+
+#+INCLUDE: "9_projects.org" :minlevel 2
