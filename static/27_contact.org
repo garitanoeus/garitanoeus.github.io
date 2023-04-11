@@ -1,3 +1,0 @@
-#+INCLUDE: "28_contact_title.org" :minlevel 1
-
-#+INCLUDE: "29_contact_link.org" :minlevel 1

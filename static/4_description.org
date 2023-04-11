@@ -1,3 +1,0 @@
-#+INCLUDE: "5_description_title.org" :minlevel 1
-
-#+INCLUDE: "../contents/2_description_bio.org" :minlevel 1

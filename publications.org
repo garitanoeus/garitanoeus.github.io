@@ -1,0 +1,15 @@
+#+INCLUDE: "static/800_header.org" :minlevel 1
+
+#+INCLUDE: "static/103_publications_old_title.org" :minlevel 3
+
+#+INCLUDE: "contents/101_publications_old_list.org" :minlevel 4
+
+#+HTML: <br> <div id="top">
+
+#+INCLUDE: "static/503_social_media.org" :minlevel 1
+
+#+HTML: <br>
+
+#+INCLUDE: "static/805_back.org" :minlevel 1
+
+#+HTML: </div> <br>
