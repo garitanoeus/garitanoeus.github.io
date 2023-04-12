@@ -4,7 +4,7 @@
 <div id="foundations">
   <Table>
     <tr>
-      <td><a href="http://www.basicinternet.org" target="_blank" title="Basic Internet Foundation"><img id="basicinternet_href" src="images/basicinternet.png"></a></td>
+      <td><a href="http://www.basicinternet.org" target="_blank" title="Basic Internet Foundation"><img id="basicinternet_href" src="images/basicinternetv2.png"></a></td>
       <td><a href="http://www.eff.org" target="_blank" title="Electronic Frontier Foundation"><img id="eff_href" src="images/eff.gif"></a></td>
     </tr>
   </table>

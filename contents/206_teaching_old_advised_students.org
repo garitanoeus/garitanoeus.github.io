@@ -1,3 +1,31 @@
+ - Unai Ramos Arizti. _Implantación de DLTs Tipo DAG en Entornos IIoT._
+	 - Mondragon Unibertsitateko /Datuen Analisia, Zibersegurtasuna eta Hodei-Konputazioa/ Master tituloa lortzeko. 2022
+ - Joseba Carnicero Padilla. _Zibersegurtasun Proiektua Fagor Ederlaneko Fabriketan._
+	 - Mondragon Unibertsitateko /Datuen Analisia, Zibersegurtasuna eta Hodei-Konputazioa/ Master tituloa lortzeko. 2022
+ - Markel Baskaran Gogenola. _IoT Malware Kanpainetako Kanpo Agente Portaeren Arteko Ikerketa._
+	 - Mondragon Unibertsitateko /Ingeniaritza Informatikoa/ Gradu tituloa lortzeko. 2022
+ - Asier De La Natividad Mohacho.
+	 - Lan Ikaste Partekatze bezala, Hijos de Juan de Garay. 2021-2022
+ - Aitor Landa Arrue. _Securing Service Orchestrators in 5G Networks._
+	 - Lan Ikaste Partekatze bezala, Ikerlan. 2021-2022
+ - Asier Guerricagoitia Epelde.
+	 - Lan Ikaste Partekatze bezala, Mondragon Unibertsitatea. 2021-2022
+ - Ekaitz Casado. _Fuzzing for Fingerprinting._
+	 - Lan Ikaste Partekatze bezala, VARIoT finantziazio publikoko Europear ikerketa proiektuan, Mondragon Unibertsitatea. 2021-2022
+ - Oier Elortza Payros. _Prozesu Industrial baten Maketa Diseinu eta Garapena._
+	 - Lan Ikaste Partekatze bezala, Mondragon Unibertsitatea. 2021-2022
+ - Oihana Leiza Alzuart.
+	 - Lan Ikaste Partekatze bezala, Nafarroako Gobernua. 2020-2021
+ - Unai Ramos Arizti. _Tecnologías DLT ligeras para IIoT_
+   - Lan Ikaste Partekatze bezala, Ikerlan S.Coop. 2020-2021
+ - Iñigo Ortega Martinez. _Zibersegurtasuna: IoT sistemen azterketa aurreratua_
+	 - Lan Ikaste Partekatze bezala, VARIoT finantzazio publikoko Europear proiektuan, Mondragon Unibertsitatea. 2020-2021
+ - [[http://xetxezarreta.com/][Xabier Etxezarreta Argarate]]. _Software Defined Networking approaches for Intrusion detection and response in Industrial Control Systems_
+	 - Mondragon Unibertsitateko /Datuen Analisia, Zibersegurtasuna eta Hodei-Konputazioa/ Master tituloa lortzeko. 2021
+ - [[https://xgandiaga.com/][Xabier Gandiaga Iriondo]]. _Hardware emulation for dynamic malware analysis on IoT devices_
+	 - Mondragon Unibertsitateko /Datuen Analisia, Zibersegurtasuna eta Hodei-Konputazioa/ Master tituloa lortzeko. 2021
+ - Imanol Rubio Unanue. _Zibersegurtasuna: IoT sistemen azterketa aurreratua_
+	 - Mondragon Unibertsitateko /Ingeniaritza Informatikoa/ Gradu tituloa lortzeko. 2021
  - Mikel Amuchastegui Zubizarreta. _Lamassu - PKI para IoT_
 	 - Lan Ikaste Partekatze bezala, Indaba, LKS S.Coop. 2019-2020
  - Imanol Rubio Unanue. _Zibersegurtasuna: IoT sistemen azterketa aurreratua_

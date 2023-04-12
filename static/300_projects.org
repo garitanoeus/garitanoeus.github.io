@@ -12,16 +12,14 @@
 #+INCLUDE: "304_projects_skeleton_national.org" :minlevel 3
 
 #+INCLUDE: "../contents/304_projects_national.org" :minlevel 3
-#+END_COMMENT
 
 #+INCLUDE: "305_projects_skeleton_basque.org" :minlevel 3
 
 #+INCLUDE: "../contents/306_projects_basque.org" :minlevel 3
+#+END_COMMENT
 
-#+BEGIN_COMMENT
 #+INCLUDE: "306_projects_skeleton_private.org" :minlevel 3
 
 #+INCLUDE: "../contents/308_projects_private.org" :minlevel 3
-#+END_COMMENT
 
 #+INCLUDE: "308_projects_skeleton_old.org" :minlevel 3

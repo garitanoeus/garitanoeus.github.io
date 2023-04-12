@@ -1,6 +1,24 @@
- - Laura San martin Beltran de Guevara
+ - Antton Puy Aramburu. _Function Filtering Tool for Static Analysis of Binaries._
+	 - Mondragon Unibertsitateko /Datuen Analisia, Zibersegurtasuna eta Hodei-Konputazioa/ Master tituloa lortzeko. 2023
+ - Manex Galparsoro Maiz. _Ataques Adversarios y su Efecto en Sistemas de Clasificación Basados en Redes Neuronales._
+	 - Mondragon Unibertsitateko /Datuen Analisia, Zibersegurtasuna eta Hodei-Konputazioa/ Master tituloa lortzeko. 2023
+ - Ainhoa Veramendi Pérez. _Análisis de Canal Lateral (Side-Channel Analysis) de Algoritmos Criptográficos en Laboratorio._
+	 - Mondragon Unibertsitateko /Datuen Analisia, Zibersegurtasuna eta Hodei-Konputazioa/ Master tituloa lortzeko. 2023
+ - Julen Pérez López. _Mejoras al Laboratorio de Ciberseguridad de Producto en una Empresa del Sector de la Energía._		 
+	 - Mondragon Unibertsitateko /Datuen Analisia, Zibersegurtasuna eta Hodei-Konputazioa/ Master tituloa lortzeko. 2023
+ - Maitane Araujo González. _JAKIN, an Eye Tracking Tool for Neurological Research._
+	 - Mondragon Unibertsitateako /Teknologia Biomedikoetan/ Master tituloa lortzeko. 2023
+ - Xabier Mugica Iturbe. _Detección de Patologías Maculares en OCT, Enfoque Centrado en los Datos._
+	 - Mondragon Unibertsitateako /Teknologia Biomedikoetan/ Master tituloa lortzeko. 2023
+ - Iker Orive Múgica. _SmartPit_
+	 - Mondragon Unibertsitateko /Datuen Analisia, Zibersegurtasuna eta Hodei-Konputazioa/ Master tituloa lortzeko. 2022
+ - Iñigo Ortega Martinez. _Análisis, Despliegue, Monitorización y Explotación de una Solución SIEM/SOC de Cobertura Global Mediante la Correlación de Eventos, Análisis de los Mismos y Automatización de las Acciones._
+	 - Mondragon Unibertsitateko /Datuen Analisia, Zibersegurtasuna eta Hodei-Konputazioa/ Master tituloa lortzeko. 2022
+ - Mikel Amuchastegui Zubizarreta. _Producto para Securizar los Despliegues IoT._
+	 - Mondragon Unibertsitateko /Datuen Analisia, Zibersegurtasuna eta Hodei-Konputazioa/ Master tituloa lortzeko. 2021
+ - Laura San Martin Beltran de Guevara. _Qualitative and Quantitative Analysis of Leap Motion Performance as the Alternative for Keyboard and Mouse._
 	 - Mondragon Unibertsitateako /Teknologia Biomedikoetan/ Gradu tituloa lortzeko. 2020
- - Pablo Gimenez Lallana
+ - Pablo Gimenez Lallana. _Analysis of Myo Armband Usability and Accessibility as the Alternative for Keyboard and Mouse._
 	 - Mondragon Unibertsitateako /Teknologia Biomedikoetan/ Gradu tituloa lortzeko. 2020
  - Markel Garcia Gómez. _Biomimética Inteligente para Regeneración de Tejidos_	
 	 - Mondragon Unibertsitateako /Teknologia Biomedikoetan/ Gradu tituloa lortzeko. 2020

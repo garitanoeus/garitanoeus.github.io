@@ -1,20 +1,23 @@
 - [[https://www.mondragon.edu/eu/unibertsitate-masterra-datuen-analisia-zibersegurtasuna-hodei-koputazioa][Datuen Analisia, Zibersegurtasuna eta Hodei-Konputazioa.]] Mondragon Unibertsitatea.
-  - Azpiegitura eta Sareetako Segurtasuna. 2019-2020.
-  - Datuen adimena. 2019-2020.
+  - Azpiegitura eta Sareetako Segurtasuna. 2019-2020, 2020-2021, 2021-2022.
+  - Datuen adimena. 2019-2020, 2020-2021, 2021-2022.
+	- Azpiegitura eta sistemak. 2020-2021, 2021-2022.
 
 - [[https://www.mondragon.edu/eu/unibertsitate-masterra-teknologia-biomedikoak][Teknologia Biomedikoetan Unibertsitate Masterra.]] Mondragon Unibertsitatea.
-  - Bioinformatika eta datuen analisia. 2017-2018, 2018-2019, 2019-2020.
+  - Bioinformatika eta datuen analisia. 2017-2018, 2018-2019, 2019-2020, 2020-2021, 2021-2022.
+
+- [[https://www.mondragon.edu/eu/gradua-informatika-ingeniaritza][Gradua Informatika Ingeniaritzan.]] Mondragon Unibertsitatea.
+  - Azpiegitura eta Sistemak. 2015-2016, 2016-2017, 2017-2018, 2018-2019, 2019-2020, 2020-2021, 2021-2022.
 
 - [[http://www.mondragon.edu/cursos/es/tematicas/informatica-telecomunicaciones-sistemas-empotrados/master-en-ciberseguridad][Zibersegurtasun Masterra.]] Mondragon Unibertsitatea.
-  - WiFi segurtasuna. 2019-2020.
+	- Aplikazio Kontainer segurtasuna. 2021-2022.
+	- Komunikazoi Sareen segurtasuna. 2021-2022.
+  - WiFi segurtasuna. 2019-2020, 2020-2021.
   - Sistema eragileen segurtasuna. 2017-2018, 2018-2019.
   - Softwarearen segurtasuna. 2017-2018.  
   
 - [[http://www.mondragon.edu/cursos/eu/gaiak/informatika-telekomunikazio-sistemak-sistema-txertatuak/informatika-segurtasuneko-masterra-online/view][Informatika Segurtasuneko Masterra.]] Mondragon Unibertsitatea.
   - Softwarearen segurtasuna. 2015-2016, 2016-2017.
-
-- [[https://www.mondragon.edu/eu/gradua-informatika-ingeniaritza][Gradua Informatika Ingeniaritzan.]] Mondragon Unibertsitatea.
-  - Azpiegitura eta sistemak. 2015-2016, 2016-2017, 2017-2018, 2018-2019, 2019-2020.
 
 - [[http://www.spri.eus/euskadinnova/es/enpresa-digitala/agenda/curso-data-para-industria/12416.aspx][Big Data kurtsoa Industriarentzat.]] SPRI.
   - Data ingestion. 2017-2018.
