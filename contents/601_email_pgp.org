@@ -2,18 +2,12 @@
 <div id="email">
 (eu | <a href="http://www.garitano.info/" title="English">en</a>)&nbsp;&nbsp;igaritano-at-{gmail-dot-com/mondragon-dot-edu}
 </div>
-<!--
 <div id="pgp">
 <table>
 <tr>
-<td><a href="contact/igaritano_professional_gpg_key.txt" title="PGP Giltza profesionala"><tt>Profesionala: </tt></a></td>
-<td><a href="contact/igaritano_professional_gpg_key.txt" title="PGP Giltza profesionala"><tt>CF7E 3CFC 2F58 7499 FEA2 D0DB 0E7B CF45 0892 57A6</tt></a></td>
-</tr>
-<tr>
-<td><a href="contact/igaritano_personal_gpg_key.txt" title="PGP Giltza pertsonala"><tt>Pertsonala: </tt></a></td>
-<td><a href="contact/igaritano_personal_gpg_key.txt" title="PGP Giltza pertsonala"><tt>1BD1 A4B0 DB15 341D B2AC DFD8 A1FE D344 49D2 88AE</tt></a></td>
+<td><a href="contact/igaritano@mondragon.edu_gpg.asc" title="GPG"><tt>GPG: </tt></a></td>
+<td><a href="contact/igaritano@mondragon.edu_gpg.asc" title="GPG"><tt>3C6B D82F 8D93 2743 A212 5406 BA66 5144 875A 4A72</tt></a></td>
 </tr>
 </table>
 </div>
--->
 #+END_EXPORT
