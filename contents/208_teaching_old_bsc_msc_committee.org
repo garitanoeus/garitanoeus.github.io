@@ -14,6 +14,8 @@
 	 - Mondragon Unibertsitateko /Datuen Analisia, Zibersegurtasuna eta Hodei-Konputazioa/ Master tituloa lortzeko. 2022
  - Iñigo Ortega Martinez. _Análisis, Despliegue, Monitorización y Explotación de una Solución SIEM/SOC de Cobertura Global Mediante la Correlación de Eventos, Análisis de los Mismos y Automatización de las Acciones._
 	 - Mondragon Unibertsitateko /Datuen Analisia, Zibersegurtasuna eta Hodei-Konputazioa/ Master tituloa lortzeko. 2022
+ - Jacobo Fanjul Fernández. _Diseño e Implementación de Microservicio de Monitorización CAN Parametrizable para Dispositivos Edge en Sistemas Ciberfísicos._
+	 - Mondragon Unibertsitateko /Sistema Elektroniko Aurreratuak/ Master tituloa lortzeko. 2021
  - Mikel Amuchastegui Zubizarreta. _Producto para Securizar los Despliegues IoT._
 	 - Mondragon Unibertsitateko /Datuen Analisia, Zibersegurtasuna eta Hodei-Konputazioa/ Master tituloa lortzeko. 2021
  - Laura San Martin Beltran de Guevara. _Qualitative and Quantitative Analysis of Leap Motion Performance as the Alternative for Keyboard and Mouse._

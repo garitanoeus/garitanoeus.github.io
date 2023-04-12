@@ -14,7 +14,7 @@
 	 - Lan Ikaste Partekatze bezala, VARIoT finantziazio publikoko Europear ikerketa proiektuan, Mondragon Unibertsitatea. 2021-2022
  - Oier Elortza Payros. _Prozesu Industrial baten Maketa Diseinu eta Garapena._
 	 - Lan Ikaste Partekatze bezala, Mondragon Unibertsitatea. 2021-2022
- - Oihana Leiza Alzuart.
+ - Oihana Leiza Alzuart. _Estudio de la Plataforma de Análisis De Datos KNIME Analytics Platform._
 	 - Lan Ikaste Partekatze bezala, Nafarroako Gobernua. 2020-2021
  - Unai Ramos Arizti. _Tecnologías DLT ligeras para IIoT_
    - Lan Ikaste Partekatze bezala, Ikerlan S.Coop. 2020-2021
